@@ -1,0 +1,30 @@
+Program 2:
+public class Hello1
+{
+  public static void main(String[] args)
+   {
+      System.out.println("Welcome to pune");
+   }
+}
+
+Output:
+Microsoft Windows [Version 10.0.19042.1466]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>cd\
+
+C:\>cd Program Files
+
+C:\Program Files>cd Java
+
+C:\Program Files\Java>cd jdk-17.0.2
+
+C:\Program Files\Java\jdk-17.0.2>cd bin
+
+C:\Program Files\Java\jdk-17.0.2\bin>javac Hello1.java
+
+C:\Program Files\Java\jdk-17.0.2\bin>java Hello1
+Welcome to pune
+
+C:\Program Files\Java\jdk-17.0.2\bin>
+
